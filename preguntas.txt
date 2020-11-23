@@ -1,4 +1,8 @@
 1. Que tipo de errores se presentaron o se pueden presentar con su implementaci´on al
 problema?
 
-2. Que estrategias podr´ıa usar para solucionar estos errores?
+R/ No tuvimos ningun problema ya que gracias a nuestros conocimientos y el trabajo en equipo logramos desarrollar un software sin error a la primera!
+
+2. Que estrategias podria usar para solucionar estos errores?
+
+R/ Como mencionamos anteriormente.. 0 errores 8)
