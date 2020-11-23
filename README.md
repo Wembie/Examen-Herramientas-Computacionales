@@ -1,5 +1,5 @@
 # ParcialHerramientasComputacionales
-#Con la AMIGA 8)
+#Con la AMIGA :)
 
 Que problema es? 
 
