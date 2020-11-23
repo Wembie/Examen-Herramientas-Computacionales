@@ -1,0 +1,4 @@
+1. Que tipo de errores se presentaron o se pueden presentar con su implementaci´on al
+problema?
+
+2. Que estrategias podr´ıa usar para solucionar estos errores?
