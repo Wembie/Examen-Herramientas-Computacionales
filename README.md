@@ -5,6 +5,6 @@ Que problema es?
 
 Que modelo computacional lo resuelve?
 
-Su algoritmo que recibe como entrada?
+Su algoritmo qué recibe como entrada?
 
-Cual seria su salida? como lo calcula?
+Cuál sería su salida? Cómo lo calcula?
