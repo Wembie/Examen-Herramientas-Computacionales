@@ -1,9 +1,9 @@
 # ParcialHerramientasComputacionales
 #Con la AMIGA :)
 
-Que problema es? 
+Qué problema es? 
 
-Que modelo computacional lo resuelve?
+Qué modelo computacional lo resuelve?
 
 Su algoritmo qué recibe como entrada?
 
