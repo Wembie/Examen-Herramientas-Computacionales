@@ -14,8 +14,19 @@
 **R//** Nuestro algoritmo recibe como entrada:
 
 * Letras
-* Número
+* Números
 
 Esto con el fin que se expondrá en el siguiente punto.
 
-**¿Cuál sería su salida? Cómo lo calcula?**
+**¿Cuál sería su salida?**
+
+**R//** Las salidas del algoritmo van a estar dadas en:
+
+* Letras 
+* Números
+
+Todo depende de lo que el programa le pida al usuario ingresar. Ej: Se ingresa el nombre, estudiante o profesor y su número de documento y se imprimirá, por ejemplo: _"El Estudiante Valentina con Cedula 333 debe pagar $2250.0"_.
+
+**¿Cómo lo calcula?**
+
+Los cáculos van a estar dados de acuerdo a lo que ingrese el usuario, por ejemplo: Cantidad de productos, precio de los mismos, etc. Se harán con distintas operaciones matemáticas básicas, incluidas ya en el algoritmo.
