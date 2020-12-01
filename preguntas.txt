@@ -1,8 +1,11 @@
 1. Que tipo de errores se presentaron o se pueden presentar con su implementación al
 problema?
 
-R// No tuvimos ningun problema, ya que gracias a nuestros conocimientos, lo aprendido en el curso y el trabajo en equipo, pudimos sacar adelante el programa sin presentar error alguno, sin embargo, nos cercioramos de todas las formas para que este corriera de forma correcta.
+R// No tuvimos ningun problema, ya que gracias a nuestros conocimientos, lo aprendido en el curso y el trabajo en equipo, 
+pudimos sacar adelante el programa sin presentar error alguno, sin embargo, nos cercioramos de todas las formas para que 
+este corriera de forma correcta.
 
 2. Que estrategias podria usar para solucionar estos errores?
 
-R// Estrategias para solución de errores, ninguna. Hicimos uso del seguimiento en la construcción del programa, para que este corriera de la mejor forma y sin presentar errores, tal como lo mencionamos anteriormente.
+R// Estrategias para solución de errores, ninguna. Hicimos uso del seguimiento en la construcción del programa, 
+para que este corriera de la mejor forma y sin presentar errores, tal como lo mencionamos anteriormente.
